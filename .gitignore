@@ -1,0 +1,8 @@
+themes/pelican-themes/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
